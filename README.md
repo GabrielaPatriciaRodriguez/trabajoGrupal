@@ -1,0 +1,2 @@
+# trabajoGrupal
+Trabajando con Lore
